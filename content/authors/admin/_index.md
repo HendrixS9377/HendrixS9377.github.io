@@ -62,7 +62,7 @@ interests:
   - Electromagnetics and Microwave
 
 education:
-  - area: MS in Electrical Engineering
+  - area: MS. in Electrical Engineering
     institution: University of Pennsylvania, USA
     date_start: 2024-08-27
     date_end: 2026-05-30
@@ -70,11 +70,11 @@ education:
       **GPA:** 3.85/4.0
 
       **Relevant Courses:**
-      - **Control & Optimization:** Modern Convex Optimization, Linear System Theory
-      - **Robotics:** Applied Machine Learning (A), Graph Neural Network (A)
-      - **Applied Courses:** Autonomous Driving (A+), Estimation and Detection Theory (A+)
+      - **Math:** Modern Convex Optimization, Linear System Theory, Stastics for Data Science.
+      - **Robotics:** Control and Optimization with Applications in Robotics,Autonomous Racing Cars, Nanorobotics, Learning in Robotics.
+      - **Machine Learning:** Deep Generative Models.
 
-  - area: Dual BSc in Electronic Science and Technology 
+  - area: Dual BEng. in Electronic Science and Technology 
     institution: University of Liverpool, UK & Xi'an Jiaotong-Liverpool University, China
     date_start: 2020-09-01
     date_end: 2024-07-30
@@ -83,11 +83,11 @@ education:
     
       **Relevant Courses:**
       - Probability and Statistics (A)
-      - Information Theory (A)
+      - Electronic Circuits and Systems (A)
       - C Programming (A)
       - MATLAB Programming (A+)
-      - Game Theory (A+)
-      - Applied Statistics (A)
+      - Continous and Discrete Time Signals and Systems (A+)
+        Microprocessor Systems (A)
 work:
   - position: Intern in Data Analytics
     company_name: JLL (Jones Lang LaSalle)
