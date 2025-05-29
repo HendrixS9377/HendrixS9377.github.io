@@ -3,7 +3,7 @@
 title: Haoxun Shen
 
 # Name pronunciation (optional)
-name_pronunciation: 昊迅 沈
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Haoxun
@@ -56,7 +56,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/junfei-z/
 
-interests:
+Research Interests:
   - Control & Optimization in Robotics
   - Machine Learning
   - Electromagnetics and Microwave
@@ -196,11 +196,15 @@ awards:
 
 ## About Me
 
-I’m Junfei Zhan, originally from China, and currently exploring opportunities to pursue PhD programs to further my academic journey.
+I’m Haoxun Shen, originally from China, and currently exploring opportunities to pursue PhD programs to further my academic journey.
 
-My academic interests center on optimization, Large Lanuage Models (LLM), and data-driven decision-making, especially in energy-constrained computing environments. I’ve led and co-authored multiple research projects and publications focused on task scheduling, LLM, and green IoT networks, including work published in IEEE Networking Letters and under review at IEEE Transactions on Mobile Computing, 2025 ACM Multlimedia and 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC). I’m passionate about combining mathematical modeling, machine learning, and control theory to tackle real-world system challenges.
+My research interests lie at the intersection of intelligent control theory, reinforcement learning, and complex physical systems, with a strong emphasis on designing robust, safe, and generalizable controllers for embodied agents such as robotic manipulators, UAVs, and multi-agent systems.
 
-Outside of academics, socializing and sharing meals with friends are some of my favorite activities. Sports have also been a meaningful part of my life, with awards earned in sprinting, rock climbing, rowing, and table tennis.
+Specifically, I focus on integrating model-based control methods—such as Model Predictive Control (MPC), Sliding Mode Control (SMC), and robust/adaptive control—with data-driven techniques like Residual Reinforcement Learning, Radial Basis Function Networks (RBFNNs), and Meta-Critic guided learning. My work aims to create hybrid control architectures where learning complements and enhances structured controllers, particularly in uncertain and dynamic environments.
+
+In addition to algorithmic development, I am also interested in the physical interaction between intelligent systems and their environments. For example, I explore how Frequency-Selective Surfaces (FSS) and Reconfigurable Intelligent Surfaces (RIS) can be used to improve robot communication, localization, and autonomy. My recent work investigates how to actively control electromagnetic environments via AI-based strategies to assist robotic decision-making and coordination. I have also explored neural radiance fields (NeRF) as a way to incorporate visual scene understanding into planning and control.
+
+Ultimately, my goal is to build a unified framework that couples learning and control with physical-system awareness—one that enables autonomous agents to operate safely, efficiently, and adaptively in complex real-world environments.
 
 <p> 📧 Feel free to contact me via <span id="email"></span></p>
 <script>
