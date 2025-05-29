@@ -3,11 +3,11 @@
 title: Haoxun Shen
 
 # Name pronunciation (optional)
-name_pronunciation: Haoxun Shen
+name_pronunciation: 昊迅 沈
 
 # Full name (for SEO)
-first_name: 昊迅
-last_name: 沈
+first_name: Haoxun
+last_name: Shen
 
 # Status emoji
 # status:
@@ -67,10 +67,10 @@ education:
     date_start: 2024-08-27
     date_end: 2026-05-30
     summary: |
-      **1. GPA: 3.85/4.0 **
+      **GPA:** 3.85/4.0
 
-      **2. Relevant Courses:**
-      - **Control & Optimization:** Modern Convex Optimization (A+), Linear System Theory (A)
+      **Relevant Courses:**
+      - **Control & Optimization:** Modern Convex Optimization, Linear System Theory
       - **Robotics:** Applied Machine Learning (A), Graph Neural Network (A)
       - **Applied Courses:** Autonomous Driving (A+), Estimation and Detection Theory (A+)
 
@@ -79,9 +79,9 @@ education:
     date_start: 2020-09-01
     date_end: 2024-07-30
     summary: |
-      **1. Honors:** First Class Honors (University of Birmingham)
+      **Degree Honors:** First Class Honors
 
-      **2. GPA:** 3.82/4.00 (Birmingham), 4.01/5.00 (Jinan)
+      **GPA:** 3.82/4.00 (Birmingham), 4.01/5.00 (Jinan)
 
       **3. Relevant Courses:**
       - Probability and Statistics (A)
@@ -204,8 +204,8 @@ My academic interests center on optimization, Large Lanuage Models (LLM), and da
 
 Outside of academics, socializing and sharing meals with friends are some of my favorite activities. Sports have also been a meaningful part of my life, with awards earned in sprinting, rock climbing, rowing, and table tennis.
 
-<p> 📧 Feel free to contact me at: <span id="email"></span></p>
+<p> 📧 Feel free to contact me via <span id="email"></span></p>
 <script>
   document.getElementById("email").innerHTML =
-    '<a href="mailto:' + 'zjf2024' + '@' + 'seas.upenn.edu">zjf2024@seas.upenn.edu</a>';
+    '<a href="mailto:' + 'haoxun' + '@' + 'seas.upenn.edu">haoxun@seas.upenn.edu</a>';
 </script>
