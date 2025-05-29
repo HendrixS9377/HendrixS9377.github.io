@@ -75,15 +75,13 @@ education:
       - **Applied Courses:** Autonomous Driving (A+), Estimation and Detection Theory (A+)
 
   - area: Dual BSc in Electronic Science and Technology 
-    institution: University of Liverpool, UK & Jinan University, China
+    institution: University of Liverpool, UK & Xi'an Jiaotong-Liverpool University, China
     date_start: 2020-09-01
     date_end: 2024-07-30
     summary: |
-      **Degree Honors:** First Class Honors
-
-      **GPA:** 3.82/4.00 (Birmingham), 4.01/5.00 (Jinan)
-
-      **3. Relevant Courses:**
+      **Degree Honors:** First Class with Honors
+    
+      **Relevant Courses:**
       - Probability and Statistics (A)
       - Information Theory (A)
       - C Programming (A)
