@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 占俊飞
+title: Haoxun Shen
 
 # Name pronunciation (optional)
-name_pronunciation: Junfei Zhan
+name_pronunciation: Haoxun Shen
 
 # Full name (for SEO)
-first_name: Junfei
-last_name: Zhan
+first_name: 昊迅
+last_name: 沈
 
 # Status emoji
 # status:
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master Student
+role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Pennsylvania (UPenn)
+  - name: University of Pennsylvania
     url: https://www.upenn.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 # profiles:
 #   - icon: lucide/mailbox
-#     url: 'mailto:zjf2024@seas.upenn.edu'
+#     url: 'mailto:haoxun@seas.upenn.edu'
 #     label: E-mail Me
 #   - icon: brands/x
 #     url: https://twitter.com/GetResearchDev
@@ -47,7 +47,7 @@ organizations:
 #     url: https://orcid.org/
 profiles:
   - icon: at-symbol
-    url: 'mailto:zjf2024@seas.upenn.edu'
+    url: 'mailto:haoxun@seas.upenn.edu'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/Junfei-Z
@@ -57,27 +57,27 @@ profiles:
     url: https://www.linkedin.com/in/junfei-z/
 
 interests:
-  - Large Language Models
-  - Optimization
-  - Network Science
+  - Control & Optimization in Robotics
+  - Machine Learning
+  - Electromagnetics and Microwave
 
 education:
   - area: MS in Electrical Engineering
     institution: University of Pennsylvania, USA
-    date_start: 2024-09-01
-    date_end: 2026-06-01
+    date_start: 2024-08-27
+    date_end: 2026-05-30
     summary: |
-      **1. GPA: 4.0/4.0 (Ranking: 1/127)**
+      **1. GPA: 3.85/4.0 **
 
       **2. Relevant Courses:**
-      - **Challenging Mathematics Courses:** Modern Convex Optimization (A+), Linear System Theory (A)
-      - **Machine Learning Courses:** Applied Machine Learning (A), Graph Neural Network (A)
+      - **Control & Optimization:** Modern Convex Optimization (A+), Linear System Theory (A)
+      - **Robotics:** Applied Machine Learning (A), Graph Neural Network (A)
       - **Applied Courses:** Autonomous Driving (A+), Estimation and Detection Theory (A+)
 
-  - area: Dual BSc in Applied Mathematics and Information Computing Science
-    institution: University of Birmingham, UK & Jinan University, China
+  - area: Dual BSc in Electronic Science and Technology 
+    institution: University of Liverpool, UK & Jinan University, China
     date_start: 2020-09-01
-    date_end: 2024-06-30
+    date_end: 2024-07-30
     summary: |
       **1. Honors:** First Class Honors (University of Birmingham)
 
