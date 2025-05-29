@@ -56,7 +56,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/junfei-z/
 
-research:
+interests:
   - Control & Optimization in Robotics
   - Machine Learning
   - Electromagnetics and Microwave
