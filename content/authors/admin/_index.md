@@ -208,7 +208,7 @@ awards:
 
 ## About Me
 
-I’m Haoxun Shen, originally from China, and currently exploring opportunities to pursue PhD programs to further my academic journey.
+I am Haoxun Shen, originally from China, currently seeking PhD opportunities to advance my academic and research career.
 
 My research interests lie at the intersection of intelligent control theory, machine learning, and complex physical systems, with a strong emphasis on designing robust, safe, and generalizable performance enhancement for embodied agents.
 
