@@ -124,7 +124,7 @@ work:
     summary: |
       **Current Research, cooperation with supervisor Prof. Zhongxiang Shen, Fellow, IEEE.**
       - Investigate the integration of Frequency-Selective Surfaces (FSS) and Reconfigurable Intelligent Surfaces (RIS) to enhance the autonomy and adaptability of complex physical systems through improved electromagnetic environment control.
-      - Full-time offline internship. Anyone can have a guess on the corresponding uni.
+      - Full-time offline internship.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -154,11 +154,11 @@ skills:
       - name: Judo
         description: ''
         percent: 100
-        icon: user-group
+        icon: 
       - name: Writing
         description: ''
         percent: 80
-        icon: camera
+        icon: 
 
 languages:
   - name: English
