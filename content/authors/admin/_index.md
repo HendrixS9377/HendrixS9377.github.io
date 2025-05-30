@@ -105,13 +105,13 @@ work:
       - Utilized SQL for data extraction and Excel for real-time database updates, ensuring accuracy and consistency.
       - Built a custom program to extract text from large image datasets and automate text file organization, significantly improving workflow efficiency.
   
-   - position: Teaching Fellow
-    company_name: Xi'an Jiaotong-Liverpool University
-    company_url: https://www.xjtlu.edu.cn/en
-    company_logo: ''
-    date_start: 2023-02-01
-    date_end: 2023-6-01
-    summary: |
+ - position: Teaching Fellow
+   company_name: Xi'an Jiaotong-Liverpool University
+   company_url: https://www.xjtlu.edu.cn/en
+   company_logo: ''
+   date_start: 2023-02-01
+   date_end: 2023-6-01
+   summary: |
       **Teaching.....**
       - Collected data from over 600 companies and 40+ Grade-A office buildings through on-site surveys, focusing on tenants, vacancy rates, and performance metrics.
       - Utilized SQL for data extraction and Excel for real-time database updates, ensuring accuracy and consistency.
