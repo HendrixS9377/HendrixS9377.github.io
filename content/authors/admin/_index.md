@@ -75,9 +75,7 @@ education:
       - **Machine Learning:** Deep Generative Models.
 
   - area: Dual BEng. in Electronic Science and Technology 
-    institution: |
-    University of Liverpool, UK  
-    & Xi'an Jiaotong-Liverpool University, China
+    institution: University of Liverpool, UK
     date_start: 2020-09-01
     date_end: 2024-07-30
     summary: |
