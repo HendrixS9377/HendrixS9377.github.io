@@ -74,7 +74,7 @@ education:
       - **Robotics:** Control and Optimization with Applications in Robotics, Learning in Robotics, Autonomous Racing Cars, Nanorobotics.
 
   - area: BEng. in Electronic Science and Technology 
-    institution: University of Liverpool, UK
+    institution: University of Liverpool, UK       & Xi'an Jiaotong-Liverpool University
     date_start: 2020-09-01
     date_end: 2024-07-30
     summary: |
