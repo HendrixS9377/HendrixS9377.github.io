@@ -62,7 +62,7 @@ interests:
   - Electromagnetics and Microwave
 
 education:
-  - area: MS. in Electrical Engineering
+  - area: M.S. in Electrical Engineering
     institution: University of Pennsylvania, USA
     date_start: 2024-08-27
     date_end: 2026-05-30
@@ -73,12 +73,12 @@ education:
       - **Math:** Modern Convex Optimization, Linear System Theory, Stat for Data Science.
       - **Robotics:** Control and Optimization with Applications in Robotics, Learning in Robotics, Autonomous Racing Cars, Nanorobotics.
 
-  - area: BEng. in Electronic Science and Technology 
-    institution: University of Liverpool, UK       & Xi'an Jiaotong-Liverpool University
+  - area: Dual B.Eng. in Electronic Science and Technology 
+    institution: University of Liverpool, UK       & Xi'an Jiaotong-Liverpool University, China
     date_start: 2020-09-01
     date_end: 2024-07-30
     summary: |
-      **Degree Honors:** First Class with Honors
+      **Degree Honors:** First Class with Hons.
     
       **Relevant Courses:**
       - Engineering Mathematics I II III (A)
@@ -98,10 +98,10 @@ work:
     date_start: 2024-05-30
     date_end: 2025-06-15
     summary: |
-      **Conducted in-depth data collection and analysis for commercial real estate.**
-      - Collected data from over 600 companies and 40+ Grade-A office buildings through on-site surveys, focusing on tenants, vacancy rates, and performance metrics.
-      - Utilized SQL for data extraction and Excel for real-time database updates, ensuring accuracy and consistency.
-      - Built a custom program to extract text from large image datasets and automate text file organization, significantly improving workflow efficiency.
+      **Bachelor research, jointed with advisor Prof. Suneel K. Kommuri, Senior Member, IEEE.**
+      - Initially joined the lab through a competitive Summer Undergraduate Research Fellowship (SURF) program, and continued working as a Research Fellow throughout the academic year, culminating in an honors undergraduate thesis.
+      - Worked with a PhD student, I published an IEEE paper as the first author.
+      - Developed an improved high-order super-twisting algorithm sliding mode observer for sensorless control in cyber-physical systems (CPS).
     
   - position: Teaching Assistant – Electronic Circuits and Systems
     company_name: Xi'an Jiaotong-Liverpool University
@@ -111,21 +111,20 @@ work:
     date_end: 2024-06-27
     summary: |
       **Undergraduate Course**  
-      - Assisted in teaching *Game Theory*, focusing on foundational concepts such as zero-sum and non-zero-sum games, Nash equilibrium, and Shapley value.  
-      - Conducted 8 recitation sessions and review lessons to reinforce theoretical understanding and problem-solving skills.  
-      - Supported students through Q&A, example walkthroughs.  
+      - Assisted the professor in teaching *Electronic Circuits and Systems*, with weekly recitation.  
+      - Received a certificate of *University Excellent Student Teaching Assistant*.
+      - Since I'm not a bad lecturer, I reap the rewards of my classmates' boba milk tea.  
 
   - position: Research Fellow
-    company_name: Yangtze Delta Region Institute
+    company_name: Zhejiang Yangtze Delta Region Institute
     company_url: 
     company_logo: ''
     date_start: 2025-06-01
     date_end: 2025-08-30
     summary: |
-      **Current Research**
-      - Organized over 20 class activities, including hiking, short trips, and experience-sharing sessions with seniors.
-      - Coordinated a group graduation photo session for more than 260 students across the college.
-      - Led a long-term volunteer activity at the school hospital, providing patient directions for 200 service hours.
+      **Current Research, cooperation with supervisor Prof. Zhongxiang Shen, Fellow, IEEE.**
+      - Investigate the integration of Frequency-Selective Surfaces (FSS) and Reconfigurable Intelligent Surfaces (RIS) to enhance the autonomy and adaptability of complex physical systems through improved electromagnetic environment control.
+      - Full-time offline internship. Anyone can have a guess on the corresponding uni lol.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -134,15 +133,15 @@ skills:
     items:
       - name: Python, ROS2
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: C++, Matlab
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Pyomo, Scikit-Learn, Pytorch
+      - name: Scikit-Learn, Pytorch
         description: ''
-        percent: 40
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
