@@ -27,11 +27,6 @@ The proposed observer leverages a **modified super-twisting algorithm** with the
 - Integration of **linear and integral terms** to enhance convergence and robustness.
 - Formal proof of **finite-time stability** using **Lyapunov analysis**.
 
-Mathematically, back-EMF \( \hat{e}_j \) is estimated via:
-\[
-\hat{e}_j = K_2 \int_0^t \phi_2(s_j(\tau)) \, d\tau
-\]
-
 ### 2. PMSM System Modeling and Control
 - A complete field-oriented control (FOC) architecture is implemented using double-PI current control and SVPWM.
 - Speed estimation is used as feedback to enable full **sensorless closed-loop control**.
