@@ -158,13 +158,16 @@ skills:
       - name: Writing
         description: ''
         percent: 80
-        icon: 
+        icon:
 
 languages:
   - name: English
+    percent: 100
   - name: Chinese
-  - name: Cantonese
-
+    percent: 75
+  - name: Portuguese
+    percent: 25
+    
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
