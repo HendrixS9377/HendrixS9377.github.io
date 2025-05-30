@@ -75,7 +75,9 @@ education:
       - **Machine Learning:** Deep Generative Models.
 
   - area: Dual BEng. in Electronic Science and Technology 
-    institution: University of Liverpool, UK & Xi'an Jiaotong-Liverpool University, China
+    institution: |
+    University of Liverpool, UK  
+    & Xi'an Jiaotong-Liverpool University, China
     date_start: 2020-09-01
     date_end: 2024-07-30
     summary: |
@@ -92,10 +94,22 @@ education:
       - Integrated Electronics and Design (A)
       - Electronic Circuits (A)
       Physics (A)
-work:
-  - position: Teaching Assistant – Game Theory
-    company_name: Jinan University
-    company_url: https://english.jnu.edu.cn/
+work:    
+  - position: Research Fellow
+    company_name: Xi'an Jiaotong-Liverpool University
+    company_url: https://www.xjtlu.edu.cn/en
+    company_logo: ''
+    date_start: 2024-05-30
+    date_end: 2025-06-15
+    summary: |
+      **Conducted in-depth data collection and analysis for commercial real estate.**
+      - Collected data from over 600 companies and 40+ Grade-A office buildings through on-site surveys, focusing on tenants, vacancy rates, and performance metrics.
+      - Utilized SQL for data extraction and Excel for real-time database updates, ensuring accuracy and consistency.
+      - Built a custom program to extract text from large image datasets and automate text file organization, significantly improving workflow efficiency.
+    
+  - position: Teaching Assistant – Electronic Circuits and Systems
+    company_name: Xi'an Jiaotong-Liverpool University
+    company_url: https://www.xjtlu.edu.cn/en
     company_logo: ''
     date_start: 2024-03-01
     date_end: 2024-06-27
@@ -103,28 +117,16 @@ work:
       **Undergraduate Course**  
       - Assisted in teaching *Game Theory*, focusing on foundational concepts such as zero-sum and non-zero-sum games, Nash equilibrium, and Shapley value.  
       - Conducted 8 recitation sessions and review lessons to reinforce theoretical understanding and problem-solving skills.  
-      - Supported students through Q&A, example walkthroughs.
-      
-  - position: Intern in Data Analytics
-    company_name: JLL (Jones Lang LaSalle)
-    company_url: https://www.joneslanglasalle.com.cn/en
-    company_logo: ''
-    date_start: 2023-08-01
-    date_end: 2023-10-01
-    summary: |
-      **Conducted in-depth data collection and analysis for commercial real estate.**
-      - Collected data from over 600 companies and 40+ Grade-A office buildings through on-site surveys, focusing on tenants, vacancy rates, and performance metrics.
-      - Utilized SQL for data extraction and Excel for real-time database updates, ensuring accuracy and consistency.
-      - Built a custom program to extract text from large image datasets and automate text file organization, significantly improving workflow efficiency.
+      - Supported students through Q&A, example walkthroughs.  
 
-  - position: Class Representative
-    company_name: Jinan University
-    company_url: https://english.jnu.edu.cn/
+  - position: Research Fellow
+    company_name: Yangtze Delta Region Institute
+    company_url: 
     company_logo: ''
-    date_start: 2020-09-01
-    date_end: 2024-06-30
+    date_start: 2025-06-01
+    date_end: 2025-08-30
     summary: |
-      **Class Size: 36**
+      **Current Research**
       - Organized over 20 class activities, including hiking, short trips, and experience-sharing sessions with seniors.
       - Coordinated a group graduation photo session for more than 260 students across the college.
       - Led a long-term volunteer activity at the school hospital, providing patient directions for 200 service hours.
