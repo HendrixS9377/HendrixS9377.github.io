@@ -91,7 +91,7 @@ education:
       - Micro and Nanomanufacturing Technology (A)
       - Integrated Electronics and Design (A)
       - Electronic Circuits (A)
-      - Physics (A)
+      Physics (A)
 work:
   - position: Research Fellow
     company_name: Xi'an Jiaotong-Liverpool University
