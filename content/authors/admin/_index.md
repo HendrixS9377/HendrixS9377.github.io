@@ -71,7 +71,7 @@ education:
 
       **Relevant Courses:**
       - **Math:** Modern Convex Optimization, Linear System Theory, Stastics for Data Science.
-      - **Robotics:** Control and Optimization with Applications in Robotics,Autonomous Racing Cars, Nanorobotics, Learning in Robotics.
+      - **Robotics:** Control and Optimization with Applications in Robotics, Learning in Robotics, Autonomous Racing Cars, Nanorobotics.
       - **Machine Learning:** Deep Generative Models.
 
   - area: Dual BEng. in Electronic Science and Technology 
@@ -82,33 +82,49 @@ education:
       **Degree Honors:** First Class with Honors
     
       **Relevant Courses:**
-      - Probability and Statistics (A)
+      - Engineering Mathematics I II III (A)
       - Electronic Circuits and Systems (A)
-      - C Programming (A)
-      - MATLAB Programming (A+)
-      - Continous and Discrete Time Signals and Systems (A+)
-        Microprocessor Systems (A)
+      - C Programming and Software Engineering (A)
+      - Digital System Design with HDL (A)
+      - Continous and Discrete Time Signals and Systems (A)
+      - Microprocessor Systems (A)
+      - Micro and Nanomanufacturing Technology (A)
+      - Integrated Electronics and Design (A)
+      - Electronic Circuits (A)
+      - Physics (A)
 work:
-  - position: Intern in Data Analytics
-    company_name: JLL (Jones Lang LaSalle)
-    company_url: https://www.joneslanglasalle.com.cn/en
+  - position: Research Fellow
+    company_name: Xi'an Jiaotong-Liverpool University
+    company_url: https://www.xjtlu.edu.cn/en
     company_logo: ''
-    date_start: 2023-08-01
-    date_end: 2023-10-01
+    date_start: 2023-06-01
+    date_end: 2024-05-01
     summary: |
-      **Conducted in-depth data collection and analysis for commercial real estate.**
+      **Research.........**
+      - Collected data from over 600 companies and 40+ Grade-A office buildings through on-site surveys, focusing on tenants, vacancy rates, and performance metrics.
+      - Utilized SQL for data extraction and Excel for real-time database updates, ensuring accuracy and consistency.
+      - Built a custom program to extract text from large image datasets and automate text file organization, significantly improving workflow efficiency.
+  
+   - position: Teaching Fellow
+    company_name: Xi'an Jiaotong-Liverpool University
+    company_url: https://www.xjtlu.edu.cn/en
+    company_logo: ''
+    date_start: 2023-02-01
+    date_end: 2023-6-01
+    summary: |
+      **Teaching.....**
       - Collected data from over 600 companies and 40+ Grade-A office buildings through on-site surveys, focusing on tenants, vacancy rates, and performance metrics.
       - Utilized SQL for data extraction and Excel for real-time database updates, ensuring accuracy and consistency.
       - Built a custom program to extract text from large image datasets and automate text file organization, significantly improving workflow efficiency.
 
-  - position: Class Monitor
-    company_name: Jinan University
-    company_url: https://english.jnu.edu.cn/
+  - position: Research Fellow
+    company_name: Yangtze Delta Region Institude
+    company_url: 
     company_logo: ''
-    date_start: 2020-09-01
-    date_end: 2024-06-30
+    date_start: 2025-06-01
+    date_end: 2025-08-17
     summary: |
-      **Class Size: 36**
+      **Research..........**
       - Organized over 20 class activities, including hiking, short trips, and experience-sharing sessions with seniors.
       - Coordinated a group graduation photo session for more than 260 students across the college.
       - Led a long-term volunteer activity at the school hospital, providing patient directions for 200 service hours.
@@ -134,26 +150,23 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Sports(Running, ball, climbing)
+      - name: Soccer
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Networking(Social!)
+      - name: Judo
         description: ''
         percent: 100
         icon: user-group
-      - name: Learning(New knowledge!)
+      - name: Writing
         description: ''
         percent: 80
         icon: camera
 
 languages:
   - name: English
-    percent: 100
   - name: Chinese
-    percent: 75
   - name: Cantonese
-    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
