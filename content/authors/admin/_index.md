@@ -70,11 +70,10 @@ education:
       **GPA:** 3.85/4.0
 
       **Relevant Courses:**
-      - **Math:** Modern Convex Optimization, Linear System Theory, Stastics for Data Science.
+      - **Math:** Modern Convex Optimization, Linear System Theory, Stat for Data Science.
       - **Robotics:** Control and Optimization with Applications in Robotics, Learning in Robotics, Autonomous Racing Cars, Nanorobotics.
-      - **Machine Learning:** Deep Generative Models.
 
-  - area: Dual BEng. in Electronic Science and Technology 
+  - area: BEng. in Electronic Science and Technology 
     institution: University of Liverpool, UK
     date_start: 2020-09-01
     date_end: 2024-07-30
@@ -90,8 +89,7 @@ education:
       - Microprocessor Systems (A)
       - Micro and Nanomanufacturing Technology (A)
       - Integrated Electronics and Design (A)
-      - Electronic Circuits (A)
-      Physics (A)
+      - Physics (A)
 work:    
   - position: Research Fellow
     company_name: Xi'an Jiaotong-Liverpool University
@@ -138,7 +136,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: R, C++, Matlab
+      - name: C++, Matlab
         description: ''
         percent: 100
         icon: chart-bar
