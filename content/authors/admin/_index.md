@@ -98,19 +98,19 @@ work:
     date_start: 2024-05-30
     date_end: 2025-06-15
     summary: |
-      **Bachelor research, jointed with advisor Prof. Suneel K. Kommuri, Senior Member, IEEE.**
-      - Initially joined the lab through a competitive Summer Undergraduate Research Fellowship (SURF) program, and continued working as a Research Fellow throughout the academic year, culminating in an honors undergraduate thesis.
-      - Worked with a PhD student, I published an IEEE paper as the first author.
-      - Developed an improved high-order super-twisting algorithm sliding mode observer for sensorless control in cyber-physical systems (CPS).
+      **Jointed with advisor Prof. Suneel K. Kommuri, Senior Member, IEEE.**
+      - Initially joined the lab through the university Summer Undergraduate Research Fellowship program, and continued working as a Research Fellow throughout the academic year, culminating in an undergraduate thesis.
+      - Worked with a PhD student, publishing an IEEE paper as the first author.
+      - Developed an improved high-order super-twisting algorithm sliding mode observer for drives sensorless control in cyber-physical systems (CPS).
     
-  - position: Teaching Assistant – Electronic Circuits and Systems
+  - position: Teaching Assistant
     company_name: Xi'an Jiaotong-Liverpool University
     company_url: https://www.xjtlu.edu.cn/en
     company_logo: ''
-    date_start: 2024-03-01
+    date_start: 2024-02-01
     date_end: 2024-06-27
     summary: |
-      **Undergraduate Course**  
+      **Bachelor Experience.**  
       - Assisted the professor in teaching *Electronic Circuits and Systems*, with weekly recitation.  
       - Received a certificate of *University Excellent Student Teaching Assistant*.
       - Since I'm not a bad lecturer, I reap the rewards of my classmates' boba milk tea.  
@@ -122,9 +122,9 @@ work:
     date_start: 2025-06-01
     date_end: 2025-08-30
     summary: |
-      **Current Research, cooperation with supervisor Prof. Zhongxiang Shen, Fellow, IEEE.**
-      - Investigate the integration of Frequency-Selective Surfaces (FSS) and Reconfigurable Intelligent Surfaces (RIS) to enhance the autonomy and adaptability of complex physical systems through improved electromagnetic environment control.
+      **Cooperation with supervisor Prof. Zhongxiang Shen, Fellow, IEEE.**
       - Full-time offline internship.
+      - Investigate the integration of Frequency-Selective Surfaces (FSS) and Reconfigurable Intelligent Surfaces (RIS) to enhance the autonomy and adaptability of complex physical systems through improved electromagnetic environment control.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
