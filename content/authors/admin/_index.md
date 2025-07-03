@@ -90,7 +90,18 @@ education:
       - Micro and Nanomanufacturing Technology (A)
       - Integrated Electronics and Design (A)
       - Physics (A)
-work:    
+work:
+  - position: Research Fellow
+    company_name: Zhejiang Yangtze Delta Region Institute
+    company_url: 
+    company_logo: ''
+    date_start: 2025-06-01
+    date_end: 2025-08-30
+    summary: |
+      **Cooperation with supervisor Prof. Zhongxiang Shen, Fellow, IEEE.**
+      - Full-time offline internship.
+      - Investigate the integration of Frequency-Selective Surfaces (FSS) and Reconfigurable Intelligent Surfaces (RIS) to enhance the autonomy and adaptability of complex physical systems through improved electromagnetic environment control.
+
   - position: Research Fellow
     company_name: Xi'an Jiaotong-Liverpool University
     company_url: https://www.xjtlu.edu.cn/en
@@ -114,17 +125,6 @@ work:
       - Assisted the professor in teaching *Electronic Circuits and Systems*, with weekly recitation.  
       - Received a certificate of *University Excellent Student Teaching Assistant*.
       - Since I'm not a bad lecturer, I reap the rewards of my classmates' boba milk tea.  
-
-  - position: Research Fellow
-    company_name: Zhejiang Yangtze Delta Region Institute
-    company_url: 
-    company_logo: ''
-    date_start: 2025-06-01
-    date_end: 2025-08-30
-    summary: |
-      **Cooperation with supervisor Prof. Zhongxiang Shen, Fellow, IEEE.**
-      - Full-time offline internship.
-      - Investigate the integration of Frequency-Selective Surfaces (FSS) and Reconfigurable Intelligent Surfaces (RIS) to enhance the autonomy and adaptability of complex physical systems through improved electromagnetic environment control.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
