@@ -59,3 +59,7 @@ features:
   privacy_pack:
     enable: false
 
+branding:
+  favicon: "icon.png"
+
+
