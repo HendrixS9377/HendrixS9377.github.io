@@ -45,3 +45,8 @@
 #section-resume-biography-3 {
   padding-top: 0 !important;
 }
+
+.achievements-section {
+  display: none !important;
+}
+
