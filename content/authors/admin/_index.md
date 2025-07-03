@@ -193,17 +193,16 @@ Specifically, I focus on developing hybrid control architectures that seamlessly
 ---
 
 ## Publications
-
-<ul>
-  <li>
-    <strong>Haoxun Shen</strong>, J. Zhan, T. He<br>
-    <i>RL-Enhanced Disturbance-Aware MPC for Fast and Robust UAVs Trajectory Tracking</i><br>
-    <b>IEEE International Conference on Systems, Man, and Cybernetics (SMC)</b>, 2025.
+<ul style="list-style-type: disc; padding-left: 20px;">
+  <li style="margin-bottom: 8px;">
+    <strong>Haoxun Shen</strong>, J. Zhan, T. He – 
+    <i>RL-Enhanced Disturbance-Aware MPC for Fast and Robust UAVs Trajectory Tracking</i>. 
+    <b>IEEE SMC</b>, 2025.
   </li>
-  <br>
-  <li>
-    <strong>Haoxun Shen</strong>, R. Guo, D. Liu, S. K. Kommuri<br>
-    <i>Advanced Observer Design for Sensorless Control in Industrial Physical Systems</i><br>
-    <b>IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS)</b>, 2024.
+  <li style="margin-bottom: 8px;">
+    <strong>Haoxun Shen</strong>, R. Guo, D. Liu, S. K. Kommuri – 
+    <i>Advanced Observer Design for Sensorless Control in Industrial Physical Systems</i>. 
+    <b>IEEE ICPS</b>, 2024.
   </li>
 </ul>
+
