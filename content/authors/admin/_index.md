@@ -190,17 +190,20 @@ Specifically, I focus on developing hybrid control architectures that seamlessly
     '<a href="mailto:' + 'haoxun' + '@' + 'seas.upenn.edu">haoxun@seas.upenn.edu</a>';
 </script>
 
-
 ---
 
-## 📄 Selected Publications
+## Publications
 
 <ul>
-  <li><strong>Haoxun Shen</strong>, Suneel K. Kommuri, <em>et al.</em><br>
-    <i>A Learning-Augmented Super-Twisting Sliding Mode Observer with MPC for UAV Trajectory Tracking under Disturbances</i><br>
-    <b>IEEE SMC</b>, 2024. (Accepted)</li>
+  <li>
+    <strong>Haoxun Shen</strong>, J. Zhan, T. He<br>
+    <i>RL-Enhanced Disturbance-Aware MPC for Fast and Robust UAVs Trajectory Tracking</i><br>
+    <b>IEEE International Conference on Systems, Man, and Cybernetics (SMC)</b>, 2025.
+  </li>
   <br>
-  <li><strong>Haoxun Shen</strong>, Jiarui Zhao, Suneel K. Kommuri<br>
-    <i>Sensorless Control of PMSM Based on High-Order Sliding Mode Observer in CPS</i><br>
-    <b>IEEE ICPS</b>, 2024.</li>
+  <li>
+    <strong>Haoxun Shen</strong>, R. Guo, D. Liu, S. K. Kommuri<br>
+    <i>Advanced Observer Design for Sensorless Control in Industrial Physical Systems</i><br>
+    <b>IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS)</b>, 2024.
+  </li>
 </ul>
