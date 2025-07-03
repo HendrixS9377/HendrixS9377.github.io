@@ -50,11 +50,11 @@ profiles:
     url: 'mailto:haoxun@seas.upenn.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/Junfei-Z
+    url: https://github.com/HendrixS9377
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=IFibJMkAAAAJ&hl=en
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/junfei-z/
+    url: https://www.linkedin.com/
 
 interests:
   - Control & Optimization in Robotics
@@ -178,7 +178,7 @@ awards:
 
 ## About Me
 
-I am Haoxun Shen, originally from China, currently seeking PhD opportunities to advance my academic and research career.
+I am Haoxun Shen, currently seeking PhD opportunities to advance my academic and research career.
 
 My research interests lie at the intersection of intelligent control theory, machine learning, and complex physical systems, with a strong emphasis on designing robust, safe, and generalizable performance enhancement for embodied agents.
 
