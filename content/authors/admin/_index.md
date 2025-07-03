@@ -189,3 +189,18 @@ Specifically, I focus on developing hybrid control architectures that seamlessly
   document.getElementById("email").innerHTML =
     '<a href="mailto:' + 'haoxun' + '@' + 'seas.upenn.edu">haoxun@seas.upenn.edu</a>';
 </script>
+
+
+---
+
+## 📄 Selected Publications
+
+<ul>
+  <li><strong>Haoxun Shen</strong>, Suneel K. Kommuri, <em>et al.</em><br>
+    <i>A Learning-Augmented Super-Twisting Sliding Mode Observer with MPC for UAV Trajectory Tracking under Disturbances</i><br>
+    <b>IEEE SMC</b>, 2024. (Accepted)</li>
+  <br>
+  <li><strong>Haoxun Shen</strong>, Jiarui Zhao, Suneel K. Kommuri<br>
+    <i>Sensorless Control of PMSM Based on High-Order Sliding Mode Observer in CPS</i><br>
+    <b>IEEE ICPS</b>, 2024.</li>
+</ul>
