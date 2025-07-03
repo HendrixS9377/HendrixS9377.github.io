@@ -50,9 +50,5 @@
   display: none !important;
 }
 
-/* 隐藏自动生成的 Education 和 Interests */
-.section-subheading:contains("Education"),
-.section-subheading:contains("Interests") {
-  display: none !important;
-}
+
 
